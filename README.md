@@ -1,3 +1,3 @@
 # fav
 
-https://Maxhim23.github.io
+https://maxhim23.github.io/fav/
